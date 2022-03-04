@@ -1,0 +1,32 @@
+.p1{
+    background-color: brown;
+    border: chartreuse 30px;
+    border-style: dotted;
+    border-top: double red 30px;
+    padding: 20px ;
+    border-radius: 10%;
+    margin: 10%;
+    font-size: 30px;
+}
+.p2{
+    background-color: yellow;
+    border: double black 30px;
+    border-style: double;
+    margin: 10%;
+    padding: 20px;
+    font-size: 30px;
+}
+.p3{
+    background-color: gray;
+    padding: 10px;
+    font-size: 20px;
+    border: green 30px;
+    border-style: double;
+}
+#p4{
+    background-color: greenyellow;
+    border: rgb(3, 3, 3) 30px;
+    border-style: dashed;
+    font-size: 20px;
+
+}
